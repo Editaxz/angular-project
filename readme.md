@@ -1,25 +1,19 @@
 AngularJS
-Libreria de JS que funciona en el navegador.
-Angular funciona con MVC
+Libreria de JS que funciona en navegador.
 
-
-SPA - el pedido al servidor deuelve una palicacion completa
-- La primera vez carga toda la aplicacion
-- La segunda ya es guarda en cache
-
-- # = permite rootear a otras paginas dentro de aplicación
+SPA - el pedido al servidor devuelve una aplicación completa
+- La primera vez carga toda la aplicación
+- La segunda solo las diferenciales
+- Permite rootear a otras paginas dentro de aplicación
 
 Backend: api y restfull
-- La primera vez, aplicaicon, la segunda solo JSON
+- La primera vez toda la aplicación, la segunda solo JSON
 
-1. https://angularjs.org/
-2. ANgular agrega etiquetas y/o atributos al html 
-3. 
+- https://angularjs.org/
+- ANgular agrega etiquetas y/o atributos al html 
 
-Debug
---------
-ng angular
-angular bataraj
+# Debug en Angular
+- ng angular
+- angular bataraj
 
-git clone https://github.com/fullstack-pe/angularjs-esencial.git
 

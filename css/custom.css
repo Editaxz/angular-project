@@ -1,0 +1,22 @@
+body {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.edited:after {
+  content: 'Modificado';
+  font-weight: 600;
+  color: #e24343;
+  padding-left: 10px;
+}
+
+.saved:after {
+  content: 'Guardaod';
+  font-weight: 600;
+  color: blue;
+  padding-left: 10px;
+}
+.completed {
+    color: green;  
+    text-decoration: line-through;
+}

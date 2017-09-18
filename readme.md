@@ -1,4 +1,5 @@
-AngularJS
+#AngularJS
+
 Libreria de JS que funciona en navegador.
 
 SPA - el pedido al servidor devuelve una aplicación completa
